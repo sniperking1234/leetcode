@@ -4,4 +4,4 @@ leetcode 总结
 [295. Find Median from Data Stream][295]
 
 
-[295]:leetcode/295.md
+[295]:295.md
