@@ -10,6 +10,8 @@ leetcode 总结
 
 [121. Best Time to Buy and Sell Stock][121]
 
+[169. Majority Element][169]
+
 [219. Contains Duplicate II][219]
 
 [279. Perfect Squares][279]
@@ -20,6 +22,7 @@ leetcode 总结
 [73]:73.md
 [109]:109.md
 [121]:121.md
+[169]:169.md
 [219]:219.md
 [279]:279.md
 [295]:295.md
