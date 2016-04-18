@@ -4,6 +4,8 @@ leetcode 总结
 
 [1. Two Sum][1]
 
+[70. Climbing Stairs][70]
+
 [73. Set Matrix Zeroes][73]
 
 [109. Convert Sorted List to Binary Search Tree][109]
@@ -19,6 +21,7 @@ leetcode 总结
 [295. Find Median from Data Stream][295]
 
 [1]:1.md
+[70]:70.md
 [73]:73.md
 [109]:109.md
 [121]:121.md
