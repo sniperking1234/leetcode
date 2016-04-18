@@ -14,6 +14,8 @@ leetcode 总结
 
 [169. Majority Element][169]
 
+[202. Happy Number][202]
+
 [219. Contains Duplicate II][219]
 
 [235. Lowest Common Ancestor of a Binary Search Tree][235]
@@ -28,6 +30,7 @@ leetcode 总结
 [109]:109.md
 [121]:121.md
 [169]:169.md
+[202]:202.md
 [219]:219.md
 [235]:235.md
 [279]:279.md
