@@ -4,6 +4,8 @@ leetcode 总结
 
 [1. Two Sum][1]
 
+[7. Reverse Integer](7.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
