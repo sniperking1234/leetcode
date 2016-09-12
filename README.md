@@ -6,6 +6,8 @@ leetcode 总结
 
 [7. Reverse Integer](7.md)
 
+[9. Palindrome Number](9.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
