@@ -8,6 +8,8 @@ leetcode 总结
 
 [9. Palindrome Number](9.md)
 
+[19. Remove Nth Node From End of List](19.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
