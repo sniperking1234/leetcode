@@ -30,6 +30,8 @@ leetcode 总结
 
 [295. Find Median from Data Stream][295]
 
+[383. Ransom Note](383.md)
+
 [1]:1.md
 [70]:70.md
 [73]:73.md
