@@ -18,6 +18,8 @@ leetcode 总结
 
 [121. Best Time to Buy and Sell Stock][121]
 
+[125. Valid Palindrome](125.md)
+
 [169. Majority Element][169]
 
 [202. Happy Number][202]
