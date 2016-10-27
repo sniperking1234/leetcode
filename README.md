@@ -10,6 +10,8 @@ leetcode 总结
 
 [19. Remove Nth Node From End of List](19.md)
 
+[21. Merge Two Sorted Lists](21.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
