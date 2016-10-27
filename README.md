@@ -16,6 +16,8 @@ leetcode 总结
 
 [73. Set Matrix Zeroes][73]
 
+[88. Merge Sorted Array](88.md)
+
 [109. Convert Sorted List to Binary Search Tree][109]
 
 [110. Balanced Binary Tree](110.md)
