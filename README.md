@@ -12,6 +12,10 @@ leetcode 总结
 
 [21. Merge Two Sorted Lists](21.md)
 
+[36. Valid Sudoku](36.md)
+
+[49. Group Anagrams](49.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
@@ -25,6 +29,8 @@ leetcode 总结
 [121. Best Time to Buy and Sell Stock][121]
 
 [125. Valid Palindrome](125.md)
+
+[127. Word Ladder](127.md)
 
 [169. Majority Element][169]
 
