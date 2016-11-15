@@ -18,6 +18,8 @@ leetcode 总结
 
 [49. Group Anagrams](49.md)
 
+[56. Merge Intervals](56.md)
+
 [70. Climbing Stairs][70]
 
 [73. Set Matrix Zeroes][73]
