@@ -12,6 +12,8 @@ leetcode 总结
 
 [21. Merge Two Sorted Lists](21.md)
 
+[31. Next Permutation](31.md)
+
 [36. Valid Sudoku](36.md)
 
 [49. Group Anagrams](49.md)
