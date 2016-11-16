@@ -44,6 +44,8 @@ leetcode 总结
 
 [235. Lowest Common Ancestor of a Binary Search Tree][235]
 
+[268. Missing Number](https://leetcode.com/problems/missing-number/)
+
 [279. Perfect Squares][279]
 
 [295. Find Median from Data Stream][295]
