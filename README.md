@@ -50,6 +50,8 @@ leetcode 总结
 
 [295. Find Median from Data Stream][295]
 
+[342. Power of Four](342.md)
+
 [383. Ransom Note](383.md)
 
 [1]:1.md
