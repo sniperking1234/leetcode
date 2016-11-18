@@ -36,6 +36,8 @@ leetcode 总结
 
 [127. Word Ladder](127.md)
 
+[144. Binary Tree Preorder Traversal](144.md)
+
 [169. Majority Element][169]
 
 [202. Happy Number][202]
