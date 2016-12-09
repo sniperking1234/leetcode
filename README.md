@@ -14,6 +14,8 @@ leetcode 总结
 
 [31. Next Permutation](31.md)
 
+[35. Search Insert Position](35.md)
+
 [36. Valid Sudoku](36.md)
 
 [44. Wildcard Matching](44.md)
