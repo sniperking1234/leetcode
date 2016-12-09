@@ -1,5 +1,5 @@
 # leetcode
-leetcode 总结
+leetcode 题解
 ##目录
 
 [1. Two Sum](Solution/1.md)
