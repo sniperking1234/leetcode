@@ -30,6 +30,8 @@ leetcode 题解
 
 [88. Merge Sorted Array](Solution/88.md)
 
+[89. Gray Code](Solution/89.md)
+
 [109. Convert Sorted List to Binary Search Tree](Solution/109.md)
 
 [110. Balanced Binary Tree](Solution/110.md)
