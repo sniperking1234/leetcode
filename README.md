@@ -88,6 +88,8 @@ leetcode 题解
 
 [258. Add Digits](Solution/258.md)
 
+[263. Ugly Number](Solution/263.md)
+
 [268. Missing Number](Solution/268.md)
 
 [279. Perfect Squares](Solution/279.md)
