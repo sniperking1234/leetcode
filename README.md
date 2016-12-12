@@ -66,6 +66,8 @@ leetcode 题解
 
 [169. Majority Element](Solution/169.md)
 
+[171. Majority Element](Solution/171.md)
+
 [202. Happy Number](Solution/202.md)
 
 [219. Contains Duplicate II](Solution/219.md)
