@@ -32,6 +32,8 @@ leetcode 题解
 
 [56. Merge Intervals](Solution/56.md)
 
+[58. Length of Last Word](Solution/58.md)
+
 [70. Climbing Stairs](Solution/70.md)
 
 [73. Set Matrix Zeroes](Solution/73.md)
