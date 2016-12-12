@@ -4,6 +4,8 @@ leetcode 题解
 
 [1. Two Sum](Solution/1.md)
 
+[2. Add Two Numbers](Solution/2.md)
+
 [7. Reverse Integer](Solution/7.md)
 
 [9. Palindrome Number](Solution/9.md)
