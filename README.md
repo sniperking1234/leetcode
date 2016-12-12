@@ -86,6 +86,8 @@ leetcode 题解
 
 [242. Valid Anagram](Solution/242.md)
 
+[258. Add Digits](Solution/258.md)
+
 [268. Missing Number](Solution/268.md)
 
 [279. Perfect Squares](Solution/279.md)
