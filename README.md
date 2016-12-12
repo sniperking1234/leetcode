@@ -96,6 +96,8 @@ leetcode 题解
 
 [283. Move Zeroes](Solution/283.md)
 
+[292. Nim Game](Solution/292.md)
+
 [295. Find Median from Data Stream](Solution/295.md)
 
 [342. Power of Four](Solution/342.md)
