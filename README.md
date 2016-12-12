@@ -8,6 +8,8 @@ leetcode 题解
 
 [3. Longest Substring Without Repeating Characters](Solution/3.md)
 
+[4. Median of Two Sorted Arrays](Solution/4.md)
+
 [7. Reverse Integer](Solution/7.md)
 
 [8. String to Integer (atoi)](Solution/8.md)
