@@ -74,6 +74,8 @@ leetcode 题解
 
 [219. Contains Duplicate II](Solution/219.md)
 
+[226. Invert Binary Tree](Solution/226.md)
+
 [227. Basic Calculator II](Solution/227.md)
 
 [235. Lowest Common Ancestor of a Binary Search Tree](Solution/235.md)
