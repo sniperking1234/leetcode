@@ -44,6 +44,8 @@ leetcode 题解
 
 [100. Same Tree](Solution/100.md)
 
+[104. Maximum Depth of Binary Tree](Solution/104.md)
+
 [109. Convert Sorted List to Binary Search Tree](Solution/109.md)
 
 [110. Balanced Binary Tree](Solution/110.md)
