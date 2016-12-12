@@ -6,6 +6,8 @@ leetcode 题解
 
 [2. Add Two Numbers](Solution/2.md)
 
+[3. Longest Substring Without Repeating Characters](Solution/3.md)
+
 [7. Reverse Integer](Solution/7.md)
 
 [9. Palindrome Number](Solution/9.md)
