@@ -100,6 +100,8 @@ leetcode 题解
 
 [295. Find Median from Data Stream](Solution/295.md)
 
+[326. Power of Three](Solution/326.md)
+
 [342. Power of Four](Solution/342.md)
 
 [383. Ransom Note](Solution/383.md)
