@@ -84,6 +84,8 @@ leetcode 题解
 
 [237. Delete Node in a Linked List](Solution/237.md)
 
+[242. Valid Anagram](Solution/242.md)
+
 [268. Missing Number](Solution/268.md)
 
 [279. Perfect Squares](Solution/279.md)
