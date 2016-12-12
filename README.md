@@ -58,6 +58,8 @@ leetcode 题解
 
 [127. Word Ladder](Solution/127.md)
 
+[136. Single Number](Solution/136.md)
+
 [144. Binary Tree Preorder Traversal](Solution/144.md)
 
 [168. Excel Sheet Column Title](Solution/168.md)
