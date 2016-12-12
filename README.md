@@ -10,6 +10,8 @@ leetcode 题解
 
 [7. Reverse Integer](Solution/7.md)
 
+[8. String to Integer (atoi)](Solution/8.md)
+
 [9. Palindrome Number](Solution/9.md)
 
 [19. Remove Nth Node From End of List](Solution/19.md)
