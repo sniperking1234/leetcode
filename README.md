@@ -42,6 +42,8 @@ leetcode 题解
 
 [89. Gray Code](Solution/89.md)
 
+[100. Same Tree](Solution/100.md)
+
 [109. Convert Sorted List to Binary Search Tree](Solution/109.md)
 
 [110. Balanced Binary Tree](Solution/110.md)
