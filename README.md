@@ -78,6 +78,8 @@ leetcode 题解
 
 [227. Basic Calculator II](Solution/227.md)
 
+[231. Power of Two](Solution/231.md)
+
 [235. Lowest Common Ancestor of a Binary Search Tree](Solution/235.md)
 
 [268. Missing Number](Solution/268.md)
