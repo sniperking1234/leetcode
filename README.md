@@ -70,6 +70,8 @@ leetcode 题解
 
 [202. Happy Number](Solution/202.md)
 
+[217. Contains Duplicate](Solution/217.md)
+
 [219. Contains Duplicate II](Solution/219.md)
 
 [227. Basic Calculator II](Solution/227.md)
