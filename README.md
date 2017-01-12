@@ -102,6 +102,8 @@ leetcode 题解
 
 [295. Find Median from Data Stream](Solution/251-300/295.md)
 
+[303. Range Sum Query - Immutable](Solution/301-350/303.md)
+
 [326. Power of Three](Solution/301-350/326.md)
 
 [342. Power of Four](Solution/301-350/342.md)
