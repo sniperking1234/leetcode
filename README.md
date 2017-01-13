@@ -38,6 +38,8 @@ leetcode 题解
 
 [73. Set Matrix Zeroes](Solution/51-100/73.md)
 
+[79. Word Search](Solution/51-100/79.md)
+
 [88. Merge Sorted Array](Solution/51-100/88.md)
 
 [89. Gray Code](Solution/51-100/89.md)
