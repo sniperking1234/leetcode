@@ -66,6 +66,8 @@ leetcode 题解
 
 [144. Binary Tree Preorder Traversal](Solution/101-150/144.md)
 
+[166. Fraction to Recurring Decimal](Solution/151-200/166.md)
+
 [168. Excel Sheet Column Title](Solution/151-200/168.md)
 
 [169. Majority Element](Solution/151-200/169.md)
