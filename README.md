@@ -20,6 +20,8 @@ leetcode 题解
 
 [21. Merge Two Sorted Lists](Solution/1-50/21.md)
 
+[29. Divide Two Integers](Solution/1-50/29.md)
+
 [31. Next Permutation](Solution/1-50/31.md)
 
 [35. Search Insert Position](Solution/1-50/35.md)
