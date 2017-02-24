@@ -120,6 +120,8 @@ leetcode 题解
 
 [326. Power of Three](Solution/301-350/326.md)
 
+[334. Increasing Triplet Subsequence](Solution/301-350/334.md)
+
 [342. Power of Four](Solution/301-350/342.md)
 
 [383. Ransom Note](Solution/351-400/383.md)
