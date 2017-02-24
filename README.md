@@ -120,6 +120,8 @@ leetcode 题解
 
 [326. Power of Three](Solution/301-350/326.md)
 
+[330. Patching Array](Solution/301-350/330.md)
+
 [334. Increasing Triplet Subsequence](Solution/301-350/334.md)
 
 [342. Power of Four](Solution/301-350/342.md)
