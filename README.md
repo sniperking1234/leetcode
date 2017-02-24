@@ -48,6 +48,8 @@ leetcode 题解
 
 [92. Reverse Linked List II](Solution/51-100/92.md)
 
+[96. Unique Binary Search Trees](Solution/51-100/96.md)
+
 [98. Validate Binary Search Tree](Solution/51-100/98.md)
 
 [100. Same Tree](Solution/51-100/100.md)
