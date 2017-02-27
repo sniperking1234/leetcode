@@ -60,6 +60,8 @@ leetcode 题解
 
 [110. Balanced Binary Tree](Solution/101-150/110.md)
 
+[116. Populating Next Right Pointers in Each Node](Solution/101-150/116.md)
+
 [119. Pascal's Triangle II](Solution/101-150/119.md)
 
 [121. Best Time to Buy and Sell Stock](Solution/101-150/121.md)
