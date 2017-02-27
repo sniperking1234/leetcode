@@ -132,3 +132,5 @@ leetcode 题解
 
 [416. Partition Equal Subset Sum](Solution/401-450/416.md)
 
+[453. Minimum Moves to Equal Array Elements](Solution/451-500/453.md)
+
