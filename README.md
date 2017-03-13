@@ -32,6 +32,8 @@ leetcode 题解
 
 [49. Group Anagrams](Solution/1-50/49.md)
 
+[50. Pow(x, n)](Solution/1-50/50.md)
+
 [56. Merge Intervals](Solution/51-100/56.md)
 
 [58. Length of Last Word](Solution/51-100/58.md)
