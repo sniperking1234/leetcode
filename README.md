@@ -10,6 +10,8 @@ leetcode 题解
 
 [4. Median of Two Sorted Arrays](Solution/1-50/4.md)
 
+[5. Longest Palindromic Substring](Solution/1-50/5.md)
+
 [7. Reverse Integer](Solution/1-50/7.md)
 
 [8. String to Integer (atoi)](Solution/1-50/8.md)
