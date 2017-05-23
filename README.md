@@ -18,6 +18,8 @@ leetcode 题解
 
 [9. Palindrome Number](Solution/1-50/9.md)
 
+[14. Longest Common Prefix](Solution/1-50/14.md)
+
 [19. Remove Nth Node From End of List](Solution/1-50/19.md)
 
 [21. Merge Two Sorted Lists](Solution/1-50/21.md)
