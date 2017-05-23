@@ -1,6 +1,6 @@
 # leetcode
 leetcode 题解
-##目录
+## 目录
 
 [1. Two Sum](Solution/1-50/1.md)
 
