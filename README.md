@@ -22,6 +22,8 @@ leetcode 题解
 
 [19. Remove Nth Node From End of List](Solution/1-50/19.md)
 
+[20. Valid Parentheses](Solution/1-50/20.md)
+
 [21. Merge Two Sorted Lists](Solution/1-50/21.md)
 
 [29. Divide Two Integers](Solution/1-50/29.md)
