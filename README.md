@@ -132,11 +132,11 @@ leetcode 题解
 
 [330. Patching Array](Solution/301-350/330.md)
 
-[344. Reverse String](Solution/301-350/334.md)
-
 [334. Increasing Triplet Subsequence](Solution/301-350/334.md)
 
 [342. Power of Four](Solution/301-350/342.md)
+
+[344. Reverse String](Solution/301-350/334.md)
 
 [383. Ransom Note](Solution/351-400/383.md)
 
