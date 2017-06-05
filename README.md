@@ -136,7 +136,7 @@ leetcode 题解
 
 [342. Power of Four](Solution/301-350/342.md)
 
-[344. Reverse String](Solution/301-350/334.md)
+[344. Reverse String](Solution/301-350/344.md)
 
 [383. Ransom Note](Solution/351-400/383.md)
 
